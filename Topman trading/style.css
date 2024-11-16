@@ -1,0 +1,87 @@
+.body{ 
+    background-image: url("./1st page images/NFT.jpg");
+    background-size:cover;
+    color:aliceblue;
+    border-radius: 10px;
+    font-size:medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:2rem;
+    width: 60rem;
+    justify-self: center;
+    margin:auto;
+    box-shadow: 10px 10px 15px black;
+}
+.gil{
+    display:flex;
+    font-size:large;
+}
+.button{
+    border-radius: 50px;
+    height: 2rem;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px aliceblue;
+}
+.button:hover{
+    color: aliceblue;
+    background-color:rgb(2, 2, 60);
+    box-shadow: 2px 2px 4px blanchedalmond;
+}
+.name{
+    text-shadow:2px 3px 3px wheat;
+}
+.k{
+    display:flex;
+    border: 1px solid;
+    border-color: aliceblue;
+    border-style: double;
+    box-shadow: 2px 3px 3px snow;
+    
+}
+.crpt{
+    margin-left: 3rem;
+}
+.h2{
+    display: flex;
+    margin-left: 3rem;
+    padding-top: 10px;
+}
+.img1{
+    display:inline-block;
+}
+.img2{
+    display:inline-block; 
+}
+.hello{
+    display: flex;
+    font-size:large;
+}
+.today{
+    display:inline-flex;
+}
+.htm{
+    justify-content: baseline;
+    background-image: url("./1st page images/NFT.jpg");
+    border-radius: 25px;
+    justify-content: center;
+    height:20rem;
+    width:11rem;      
+}
+.sym{
+    display:flex;
+    font-size: larger;
+}
+.have{
+    display:inline-flex;
+}
+.hit{
+    display:flex;
+    gap: 20px;
+}
+.about{
+    display: inline-flex;
+    gap: 43px;
+}
+
+@media screen and ( max-width: 100%){
+    
+} 
